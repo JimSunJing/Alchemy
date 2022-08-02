@@ -1,0 +1,16 @@
+{ 
+  "description": "This NFT proves I've created and deployed my first ERC20 smart contract on Rinkeby with Alchemy Road to Web3",
+  "external_url": "Alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmRNy54nFKMHsttYsddiLxpRiWYuoAqXG6XmyfRQSfVH25",
+  "name": "A cool NFT", 
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Ocean"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }
+  ]
+}
