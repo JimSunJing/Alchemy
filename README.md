@@ -2,7 +2,7 @@
 
 - [x] week1 How to Develop an NFT Smart Contract (ERC721) 
 
-- [ ] week2 How to Build a "Buy Me a Coffee" DeFi dApp 
+- [x] week2 How to Build a "Buy Me a Coffee" DeFi dApp 
 
 - [ ] week3 How to Make NFTs with On-chain Metadata with Hardhat and Javascript 
 
